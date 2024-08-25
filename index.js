@@ -36,7 +36,7 @@ app
     res.json({
       is_success: true,
       user_id: "Vaishnavi_sinha", // Adjust the date as needed
-      email: "Vaihnavi.sinah2021@vit.student.ac.in",
+      email: "Vaishnavi.sinha2021@vit.student.ac.in",
       roll_number: "21BEC1760",
       numbers: numbers,
       alphabets: alphabets,
